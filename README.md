@@ -51,25 +51,7 @@ npm install
 npm start
 ```
 
-<hr />
-<br />
 
-## **Preview**
-
-### Desktop preview
-
-<p align="center">
-  <img width="100%" src="./src/assets/fitMart-desktop.gif" alt="fitMart-desktop-preview"/>
-</p>
-
-### Mobile preview
-
-<p align="center">
-  <img width="100%" src="./src/assets/fitMart-mobile.gif" alt="fitMart-mobile-preview"/>
-</p>
-
-<hr />
-<br />
 
 ## **Key Features**
 
@@ -94,28 +76,4 @@ npm start
 <hr />
 <br />
 
-## **Tech Stack**
 
-- ReactJS
-- CSS
-- [Mockbee](https://mockbee.netlify.app/) - Mock Backend
-- [Colorant UI](https://colorant-ui.netlify.app) - Component Library
-
-<hr />
-<br />
-
-## **Author**
-
-- **Portfolio** - [Aman Singh](https://amansingh.netlify.app)
-- **Twitter** - [@aman11s](https://twitter.com/aman11s)
-- **LinkedIn** - [aman11s](https://www.linkedin.com/in/aman11s)
-
-<hr />
-<br />
-
-### **Live project link:** [Click here](https://fitmart.vercel.app)
-
-<hr />
-<br />
-
-### If you like this repository please give it a ⭐ in the top right corner. 😊
